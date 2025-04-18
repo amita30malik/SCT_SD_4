@@ -1,2 +1,0 @@
-This Java Swing application scrapes product data (name, price, and star rating) from e-commerce sites like Books to Scrape using the JSoup library. The scraped data is displayed in a user-friendly table and also exported automatically to a products.csv file. The app features a simple interface where users can enter a URL and instantly view and save product details. It's ideal for learning web scraping and data visualization in Java.
-
